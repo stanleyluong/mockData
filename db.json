@@ -11,8 +11,8 @@
         "status": "Pending",
         "uploadedDate": "2011-10-05T14:48:00.000Z"
       },
-      "adminBallot": null,
-      "issueReport": null
+      "adminBallot": "null",
+      "issueReport": "null"
     },  
     {
       "aid": "king",
@@ -33,7 +33,7 @@
         "status": "Rejected",
         "uploadedDate": "2013-10-05T14:48:00.000Z"
       },
-      "issueReport": null
+      "issueReport": "null"
     },
     {
       "aid": "king",
@@ -54,7 +54,7 @@
         "status": "Pending",
         "uploadedDate": "2015-10-05T14:48:00.000Z"
       },
-      "issueReport": null
+      "issueReport": "null"
     },
     {
       "aid": "king",
@@ -75,6 +75,6 @@
         "status": "Verified",
         "uploadedDate": "2017-10-05T14:48:00.000Z"
       },
-      "issueReport": null
+      "issueReport": "null"
     }
   ]
