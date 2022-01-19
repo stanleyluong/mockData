@@ -11,8 +11,22 @@
         "status": "Pending",
         "uploadedDate": "2011-10-05T14:48:00.000Z"
       },
-      "adminBallot": "null",
-      "issueReport": "null"
+      "adminBallot": {
+        "source": "OmniBallot",
+        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+        "hash": "hashhashash",
+        "status": "Rejected",
+        "uploadedDate": "2013-10-05T14:48:00.000Z"
+      },
+      "issueReport": {
+          "name": "stan",
+          "email": "stan@dl.com",
+          "phone": "1234567890",
+          "message": "its wrong!",
+          "timestamp": "2011-10-05T14:48:00.000Z",
+          "ipAddress": "123.45.678.0",
+          "userAgent": "chrome"
+      }
     },  
     {
       "aid": "king",
@@ -33,7 +47,15 @@
         "status": "Rejected",
         "uploadedDate": "2013-10-05T14:48:00.000Z"
       },
-      "issueReport": "null"
+      "issueReport": {
+        "name": "stan",
+        "email": "stan@dl.com",
+        "phone": "1234567890",
+        "message": "its wrong!",
+        "timestamp": "2011-10-05T14:48:00.000Z",
+        "ipAddress": "123.45.678.0",
+        "userAgent": "chrome"
+    }
     },
     {
       "aid": "king",
@@ -54,7 +76,15 @@
         "status": "Pending",
         "uploadedDate": "2015-10-05T14:48:00.000Z"
       },
-      "issueReport": "null"
+      "issueReport": {
+        "name": "stan",
+        "email": "stan@dl.com",
+        "phone": "1234567890",
+        "message": "its wrong!",
+        "timestamp": "2011-10-05T14:48:00.000Z",
+        "ipAddress": "123.45.678.0",
+        "userAgent": "chrome"
+    }
     },
     {
       "aid": "king",
@@ -75,6 +105,14 @@
         "status": "Verified",
         "uploadedDate": "2017-10-05T14:48:00.000Z"
       },
-      "issueReport": "null"
+      "issueReport": {
+        "name": "stan",
+        "email": "stan@dl.com",
+        "phone": "1234567890",
+        "message": "its wrong!",
+        "timestamp": "2011-10-05T14:48:00.000Z",
+        "ipAddress": "123.45.678.0",
+        "userAgent": "chrome"
+    }
     }
   ]
