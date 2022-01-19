@@ -1,118 +1,120 @@
-[
-    {
-      "aid": "king",
-      "eid": "primary",
-      "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b7",
-      "notes": "notes",
-      "voterBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
-        "status": "Pending",
-        "uploadedDate": "2011-10-05T14:48:00.000Z"
-      },
-      "adminBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "hashhashash",
-        "status": "Rejected",
-        "uploadedDate": "2013-10-05T14:48:00.000Z"
-      },
-      "issueReport": {
-          "name": "stan",
-          "email": "stan@dl.com",
-          "phone": "1234567890",
-          "message": "its wrong!",
-          "timestamp": "2011-10-05T14:48:00.000Z",
-          "ipAddress": "123.45.678.0",
-          "userAgent": "chrome"
-      }
-    },  
-    {
-      "aid": "king",
-      "eid": "primary",
-      "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b6",
-      "notes": "notes",
-      "voterBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
-        "status": "Verified",
-        "uploadedDate": "2012-10-05T14:48:00.000Z"
-      },
-      "adminBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "hashhashash",
-        "status": "Rejected",
-        "uploadedDate": "2013-10-05T14:48:00.000Z"
-      },
-      "issueReport": {
-        "name": "stan",
-        "email": "stan@dl.com",
-        "phone": "1234567890",
-        "message": "its wrong!",
-        "timestamp": "2011-10-05T14:48:00.000Z",
-        "ipAddress": "123.45.678.0",
-        "userAgent": "chrome"
-    }
-    },
-    {
-      "aid": "king",
-      "eid": "primary",
-      "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b5",
-      "notes": "notes",
-      "voterBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
-        "status": "Verified",
-        "uploadedDate": "2014-10-05T14:48:00.000Z"
-      },
-      "adminBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
-        "status": "Pending",
-        "uploadedDate": "2015-10-05T14:48:00.000Z"
-      },
-      "issueReport": {
-        "name": "stan",
-        "email": "stan@dl.com",
-        "phone": "1234567890",
-        "message": "its wrong!",
-        "timestamp": "2011-10-05T14:48:00.000Z",
-        "ipAddress": "123.45.678.0",
-        "userAgent": "chrome"
-    }
-    },
-    {
-      "aid": "king",
-      "eid": "primary",
-      "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b4",
-      "notes": "notes",
-      "voterBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
-        "status": "Pending",
-        "uploadedDate": "2016-10-05T14:48:00.000Z"
-      },
-      "adminBallot": {
-        "source": "OmniBallot",
-        "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
-        "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
-        "status": "Verified",
-        "uploadedDate": "2017-10-05T14:48:00.000Z"
-      },
-      "issueReport": {
-        "name": "stan",
-        "email": "stan@dl.com",
-        "phone": "1234567890",
-        "message": "its wrong!",
-        "timestamp": "2011-10-05T14:48:00.000Z",
-        "ipAddress": "123.45.678.0",
-        "userAgent": "chrome"
-    }
-    }
-  ]
+{
+    "submissions": [
+        {
+        "aid": "king",
+        "eid": "primary",
+        "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b7",
+        "notes": "notes",
+        "voterBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
+            "status": "Pending",
+            "uploadedDate": "2011-10-05T14:48:00.000Z"
+        },
+        "adminBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "hashhashash",
+            "status": "Rejected",
+            "uploadedDate": "2013-10-05T14:48:00.000Z"
+        },
+        "issueReport": {
+            "name": "stan",
+            "email": "stan@dl.com",
+            "phone": "1234567890",
+            "message": "its wrong!",
+            "timestamp": "2011-10-05T14:48:00.000Z",
+            "ipAddress": "123.45.678.0",
+            "userAgent": "chrome"
+        }
+        },  
+        {
+        "aid": "king",
+        "eid": "primary",
+        "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b6",
+        "notes": "notes",
+        "voterBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
+            "status": "Verified",
+            "uploadedDate": "2012-10-05T14:48:00.000Z"
+        },
+        "adminBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "hashhashash",
+            "status": "Rejected",
+            "uploadedDate": "2013-10-05T14:48:00.000Z"
+        },
+        "issueReport": {
+            "name": "stan",
+            "email": "stan@dl.com",
+            "phone": "1234567890",
+            "message": "its wrong!",
+            "timestamp": "2011-10-05T14:48:00.000Z",
+            "ipAddress": "123.45.678.0",
+            "userAgent": "chrome"
+        }
+        },
+        {
+        "aid": "king",
+        "eid": "primary",
+        "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b5",
+        "notes": "notes",
+        "voterBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
+            "status": "Verified",
+            "uploadedDate": "2014-10-05T14:48:00.000Z"
+        },
+        "adminBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
+            "status": "Pending",
+            "uploadedDate": "2015-10-05T14:48:00.000Z"
+        },
+        "issueReport": {
+            "name": "stan",
+            "email": "stan@dl.com",
+            "phone": "1234567890",
+            "message": "its wrong!",
+            "timestamp": "2011-10-05T14:48:00.000Z",
+            "ipAddress": "123.45.678.0",
+            "userAgent": "chrome"
+        }
+        },
+        {
+        "aid": "king",
+        "eid": "primary",
+        "uuid": "77999fba-7458-47f6-8c73-f9fd8494c4b4",
+        "notes": "notes",
+        "voterBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
+            "status": "Pending",
+            "uploadedDate": "2016-10-05T14:48:00.000Z"
+        },
+        "adminBallot": {
+            "source": "OmniBallot",
+            "pdf": "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf",
+            "hash": "9219ac2cd95c00c3602e9372adb51728314bf0ee",
+            "status": "Verified",
+            "uploadedDate": "2017-10-05T14:48:00.000Z"
+        },
+        "issueReport": {
+            "name": "stan",
+            "email": "stan@dl.com",
+            "phone": "1234567890",
+            "message": "its wrong!",
+            "timestamp": "2011-10-05T14:48:00.000Z",
+            "ipAddress": "123.45.678.0",
+            "userAgent": "chrome"
+            }
+        }
+    ]
+}
